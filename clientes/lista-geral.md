@@ -1,6 +1,6 @@
 # 👥 Carteira de Clientes - Link Paraíso
 
-Relação oficial de clientes atendidos e monitorados pela Link Paraíso.
+Relação completa de clientes conforme o cadastro gerencial da empresa.
 
 ### 🏢 Empresas e Condomínios
 * 📁 [**Anderson Prive 110**](./anderson-prive-110.md)
@@ -8,7 +8,7 @@ Relação oficial de clientes atendidos e monitorados pela Link Paraíso.
 * 📁 [**China Usina São José**](./china-usina-sao-jose.md)
 * 📁 [**Farmácia Santa Rita de Cássia**](./farmacia-santa-rita.md)
 
-### 👤 Clientes Individuais
+### 👤 Clientes Individuais e Residenciais
 * [**Herivelton**](./herivelton.md)
 * [**Isaac Martinho**](./isaac-martinho.md)
 * [**Julia de China**](./julia-de-china.md)
@@ -22,7 +22,15 @@ Relação oficial de clientes atendidos e monitorados pela Link Paraíso.
 * [**Vinicius de Marilia**](./vinicius-de-marilia.md)
 
 ---
-### 📂 Pastas de Gestão
+
+### 🌐 Clientes Ativos no PPPoE (MikroTik)
+* [**Jeferson @linkparaiso**](./jeferson.md)
+* [**Nicinha**](./nicinha.md)
+* [**Turbonet**](./turbonet.md)
+
+---
+
+### 📂 Pastas Administrativas
 * [**CONTRATOS**](../administrativo/contratos.md)
 * [**LOGOMARCAS**](../administrativo/logomarcas.md)
 * [**PROJETOS**](../administrativo/projetos.md)
